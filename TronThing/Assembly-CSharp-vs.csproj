@@ -46,7 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\EnemyDecisionMaker.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCameraRig.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCommon.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRDisplay.cs" />
@@ -66,20 +65,17 @@
      <Compile Include="Assets\Scripts\CycleScript.cs" />
      <Compile Include="Assets\Scripts\EnemyCycleDetectionZone.cs" />
      <Compile Include="Assets\Scripts\EnemyCycleScript.cs" />
+     <Compile Include="Assets\Scripts\EnemyDecisionMaker.cs" />
      <Compile Include="Assets\Scripts\GameManagerScript.cs" />
+     <Compile Include="Assets\Scripts\SpinningText.cs" />
      <Compile Include="Assets\Scripts\ringExplode.cs" />
      <Compile Include="Assets\Scripts\tireToss.cs" />
      <Compile Include="Assets\Scripts\wallCollapseScript.cs" />
-     <Compile Include="Assets\SpinningText.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
-     <None Include="Assets\OculusUnityIntegration\Release_Notes.txt" />
      <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
-     <None Include="Assets\OculusUnityIntegration\READ_ME_FIRST.txt" />
      <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
      <None Include="Assets\Plugins\x86\donotdelete.txt" />
-     <None Include="Assets\OculusUnityIntegration\LICENSE.txt" />
-     <None Include="Assets\OculusUnityIntegration\THIRD_PARTY_NOTICES.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
