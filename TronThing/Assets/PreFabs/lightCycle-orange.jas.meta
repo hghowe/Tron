@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 6db016e30b64e4faeae57a5ff94ab06c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Back Wheel
+    100002: Capsule
+    100004: Capsule.1
+    100006: Cylinder
+    100008: Cylinder.1
+    100010: Front Wheel
+    100012: Front Wheel Scoop
+    100014: Hull
+    100016: Inner Spine
+    100018: //RootNode
+    100020: Outer Spine
+    100022: Symmetry
+    100024: Symmetry.1
+    100026: Symmetry.2
+    100028: Symmetry.3
+    400000: Back Wheel
+    400002: Capsule
+    400004: Capsule.1
+    400006: Cylinder
+    400008: Cylinder.1
+    400010: Front Wheel
+    400012: Front Wheel Scoop
+    400014: Hull
+    400016: Inner Spine
+    400018: //RootNode
+    400020: Outer Spine
+    400022: Symmetry
+    400024: Symmetry.1
+    400026: Symmetry.2
+    400028: Symmetry.3
+    2300000: Capsule
+    2300002: Capsule.1
+    2300004: Cylinder
+    2300006: Cylinder.1
+    2300008: Front Wheel Scoop
+    2300010: Hull
+    2300012: Inner Spine
+    2300014: Outer Spine
+    2300016: Symmetry
+    2300018: Symmetry.1
+    2300020: Symmetry.2
+    2300022: Symmetry.3
+    3300000: Capsule
+    3300002: Capsule.1
+    3300004: Cylinder
+    3300006: Cylinder.1
+    3300008: Front Wheel Scoop
+    3300010: Hull
+    3300012: Inner Spine
+    3300014: Outer Spine
+    3300016: Symmetry
+    3300018: Symmetry.1
+    3300020: Symmetry.2
+    3300022: Symmetry.3
+    4300000: Cylinder
+    4300002: Capsule
+    4300004: Symmetry
+    4300006: Front Wheel Scoop
+    4300008: Symmetry.1
+    4300010: Symmetry.2
+    4300012: Cylinder.1
+    4300014: Capsule.1
+    4300016: Symmetry.3
+    4300018: Inner Spine
+    4300020: Outer Spine
+    4300022: Hull
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
