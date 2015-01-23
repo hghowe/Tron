@@ -12,7 +12,7 @@ public class EnemyDecisionMaker : MonoBehaviour {
 
 	public float chanceInThousandOfStupidity = 5.0f;
 	public float chanceInThousandOfCleverness = 150.0f;
-	public float chanceInThousandOfRandomChoices = 15.0f;
+	public float chanceInThousandOfRandomChoices = 10.0f;
 
 	enum Mood{NORMAL, STUPID, CLEVER, RANDOM};
 	// Use this for initialization

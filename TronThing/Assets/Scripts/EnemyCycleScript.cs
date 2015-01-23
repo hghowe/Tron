@@ -17,7 +17,7 @@ public class EnemyCycleScript : MonoBehaviour {
 	private float myDirection = 0;
 	private float timeSinceLastTurn = 0.0f;
 
-	const float minTimeToTurn = 0.05f;
+	const float minTimeToTurn = 0.025f;
 	const int FORWARD = 0;
 	const int LEFT = 1;
 	const int RIGHT = 2;
